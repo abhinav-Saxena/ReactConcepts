@@ -1,0 +1,14 @@
+$myColor: red;
+$buttonWidth: 150px;
+$buttonHeight: 80px;
+$buttonBorder: 1px solid black;
+
+h1 {
+    color: $myColor;
+}
+
+.devex-button {
+    width: $buttonWidth;
+    height: $buttonHeight;
+    border: $buttonBorder;
+}
